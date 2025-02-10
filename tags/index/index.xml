@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Index on Freshli</title>
-    <link>https://github.com/anaborne/hugo-mock-landing-page/tags/index/</link>
+    <link>https://anaborne.github.io/hugo-mock-landing-page/index/tags/index/</link>
     <description>Recent content in Index on Freshli</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Immanuel Anaborne</copyright>
-    <atom:link href="https://github.com/anaborne/hugo-mock-landing-page/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://anaborne.github.io/hugo-mock-landing-page/index/tags/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docs</title>
-      <link>https://github.com/anaborne/hugo-mock-landing-page/page/</link>
+      <link>https://anaborne.github.io/hugo-mock-landing-page/index/page/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://github.com/anaborne/hugo-mock-landing-page/page/</guid>
+      <guid>https://anaborne.github.io/hugo-mock-landing-page/index/page/</guid>
       <description></description>
     </item>
     <item>
       <title>Posts</title>
-      <link>https://github.com/anaborne/hugo-mock-landing-page/post/</link>
+      <link>https://anaborne.github.io/hugo-mock-landing-page/index/post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://github.com/anaborne/hugo-mock-landing-page/post/</guid>
+      <guid>https://anaborne.github.io/hugo-mock-landing-page/index/post/</guid>
       <description></description>
     </item>
   </channel>
