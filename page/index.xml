@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docs on Freshli</title>
-    <link>https://anaborne.github.io/hugo-mock-landing-page/index/page/</link>
+    <link>https://anaborne.github.io/hugo-mock-landing-page/page/</link>
     <description>Recent content in Docs on Freshli</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Immanuel Anaborne</copyright>
-    <atom:link href="https://anaborne.github.io/hugo-mock-landing-page/index/page/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://anaborne.github.io/hugo-mock-landing-page/page/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
