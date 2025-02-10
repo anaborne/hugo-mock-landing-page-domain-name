@@ -9,13 +9,6 @@
     <copyright>Immanuel Anaborne</copyright>
     <atom:link href="https://github.com/anaborne/hugo-mock-landing-page/authors/filipe-carneiro/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Docs</title>
-      <link>https://github.com/anaborne/hugo-mock-landing-page/page/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://github.com/anaborne/hugo-mock-landing-page/page/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Posts</title>
       <link>https://github.com/anaborne/hugo-mock-landing-page/post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

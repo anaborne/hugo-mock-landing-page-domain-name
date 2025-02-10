@@ -7,7 +7,15 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Immanuel Anaborne</copyright>
+    <lastBuildDate>Mon, 10 Feb 2025 14:41:20 -0500</lastBuildDate>
     <atom:link href="https://github.com/anaborne/hugo-mock-landing-page/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bootstrap</title>
+      <link>https://github.com/anaborne/hugo-mock-landing-page/tags/bootstrap/</link>
+      <pubDate>Fri, 13 May 2022 13:00:44 +0100</pubDate>
+      <guid>https://github.com/anaborne/hugo-mock-landing-page/tags/bootstrap/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Index</title>
       <link>https://github.com/anaborne/hugo-mock-landing-page/tags/index/</link>
